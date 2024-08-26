@@ -1,2 +1,2 @@
-# stone-paper-scissors
+ Rock-paper-scissors
 # Just PLAYit...
